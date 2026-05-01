@@ -29,8 +29,7 @@ See Reverse_Projection_Pipeline.pdf for full methodology, figures, and validatio
 - PhotoModeler — https://www.photomodeler.com
 
 ## Author
-Robert Bryan
-Forensic Visualization Specialist
+Robert Bryan — Forensic Visualization & Reconstruction · rlbryansr@gmail.com
 October 2025
 
 ## License
